@@ -1,2 +1,2 @@
 # RenameFramesWithRandomizedIndex
-This code will rename the sequentially renamed files with random number
+This code will rename the sequentially renamed files with random number.
