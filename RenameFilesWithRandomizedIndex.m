@@ -1,5 +1,5 @@
 % written by WB Sep. 26, 2017.
-% This code will rename the sequantially named files (e.g. vid1.png, vid2.png, ...) with random number. 
+% This code is used to batch rename the sequentially named files (e.g. vid1.png, vid2.png, ...) with random number. 
 % By default the name of the output images should look like "newvid_*.png".
 
 
