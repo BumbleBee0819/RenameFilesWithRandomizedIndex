@@ -6,4 +6,4 @@ e.g.
 
 Input: img1.jpg, img2.jpg, img3.jpg
 
-Output: new2.jpg, new1,jpg, new3.jpg
+Output: new2.jpg, new1.jpg, new3.jpg
